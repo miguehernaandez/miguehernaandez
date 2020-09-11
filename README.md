@@ -12,7 +12,7 @@ Here's a few little proyects developvent by me for practice my skills:
 
 ### Frontend
 
-*[Clima app] (https://github.com/miguehernaandez/Climapp): It's a little app who consume an external API. You can search any city and the app gonna show you the params of temperature of this city. This page was development using React and I start to doing it after using this same API in a class.
+*[Climapp](https://github.com/miguehernaandez/Climapp): It's a little app who consume an external API. You can search any city and the app gonna show you the params of temperature of this city. This page was development using React and I start to doing it after using this same API in a class.
 
 I'm currently studying Full Stack Web Development in a online bootcamp call it "SoyHenry", where I study the following technologies: 
 
