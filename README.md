@@ -16,14 +16,14 @@ Here's a few little proyects developvent by me for practice my skills:
 
 I'm currently studying Full Stack Web Development in a online bootcamp call it "SoyHenry", where I study the following technologies: 
 
-*Git: We learn the basic commands and we used github like principle plataform in this bootcamp. For that, we learn about the practical and conceptual way to use git.
+* Git: We learn the basic commands and we used github like principle plataform in this bootcamp. For that, we learn about the practical and conceptual way to use git.
 
-*Advanced javascript: We start with data structures and algorithms, next Hoisting and Closure and finish with Promises, ES6, Object Oriented Programming, Functional Programming, etc.
+* Advanced javascript: We start with data structures and algorithms, next Hoisting and Closure and finish with Promises, ES6, Object Oriented Programming, Functional Programming, etc.
 
-*React: We start learning basic concepts of this library, development little proyects with the learning. And we learning about Hooks, states, lifecycles of components, roots, etc.  
+* React: We start learning basic concepts of this library, development little proyects with the learning. And we learning about Hooks, states, lifecycles of components, roots, etc.  
 
-*Redux: We learn how to use this library in React Projects, to keeping global states y development more scalable aplications.
+* Redux: We learn how to use this library in React Projects, to keeping global states y development more scalable aplications.
 
-*Webpack + Babel: We learn to configure and prepair a project where we can use all the functionalitty of ES6 and JSX in the browser. Also, we configured a testing enviroment to see the changes in real time, giving us time optimization of processes.
+* Webpack + Babel: We learn to configure and prepair a project where we can use all the functionalitty of ES6 and JSX in the browser. Also, we configured a testing enviroment to see the changes in real time, giving us time optimization of processes.
 
-*I will keep updating this section with all the new things I learn.
+* I will keep updating this section with all the new things I learn.
