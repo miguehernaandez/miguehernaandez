@@ -26,4 +26,10 @@ I'm currently studying Full Stack Web Development in a online bootcamp call it "
 
 * Webpack + Babel: We learn to configure and prepair a project where we can use all the functionalitty of ES6 and JSX in the browser. Also, we configured a testing enviroment to see the changes in real time, giving us time optimization of processes.
 
+*Express: We learn how to create our own APIs and web servers to be consumed by the frontend app or the web browser. I learn how creates multiples routes with multiple contents each one. We use middlewares to increase the functionalities of our programs and we perform interesting proyects to practice everything we learned. 
+
+*Unit testing: Utilización de los principales frameworks y Test Runners para el correcto testeo de cada elemento de una alicación, así como la metodología de Desarrollo guiado por pruebas o TDD. Using the principle frameworks and Test Runners to correctly testing of each element of an app, as well as the metodology of developvent throw Test-driven development (TDD).
+
+*PostgreSQL/Sequalize: Implementation and design of relational database with Postgres. Sequalize make more dynamic the implementation of the relational database, creation of models that can be extended by any person, database interaction in a practical and easy way.
+
 * I will keep updating this section with all the new things I learn.
