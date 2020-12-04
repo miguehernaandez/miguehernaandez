@@ -14,6 +14,10 @@ Here's a few little proyects developvent by me for practice my skills:
 
 * [Climapp](https://github.com/miguehernaandez/Climapp): It's a little app who consume an external API. You can search any city and the app gonna show you the params of temperature of this city. This page was development using React and I start to doing it after using this same API in a class.
 
+* [ASTRA](https://github.com/miguehernaandez/ASTRA-Ecommerce): It is an application developed using React-Redux and React-Bootstrap in the front-end and NodeJS, Express, Sequelize and PostgreSQL in the backend. This app was developing by an instance of SoyHenry bootcamp.
+
+* [Henryapp](https://github.com/miguehernaandez/Henryapp): It is an application developed using React, MaterialUI, Apollo Client and Graphql in the frontend and MongoDB, Mongoose and Apollo Server in the back end. This app was developing by an instance of SoyHenry bootcamp, it is intended to be used in the future by SoyHenry.
+
 I'm currently studying Full Stack Web Development in a online bootcamp call it "SoyHenry", where I study the following technologies: 
 
 * Git: We learn the basic commands and we used github like principle plataform in this bootcamp. For that, we learn about the practical and conceptual way to use git.
