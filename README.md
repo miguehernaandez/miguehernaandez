@@ -2,11 +2,11 @@
 
 ## Full Stack Developer
 
-Hello! My name is Miguel and I'm student of Web Development.
+Hello! My name is Miguel and I'm Web Developer.
 
-I'm a young man who loves and feel passion about technology, focused on turning that passion into professional projects that meet the needs and satisfy the quality standards of any user.
+I am a young passionate about technology, eager to take on great challenges that make me learn and grow, willing to solve any problem presented making use of the technical skills that I have developed so far, as well as highlighting my non-technical skills, being a very adaptable, empathetic, supportive person who likes to work in a team.
 
-Here's a few little proyects developvent by me for practice my skills:
+I have experience developing in JavaScript as FullStack using technologies like: React.js, Redux, Angular, Nest.js, Node.js, Express, PostgreSQL and MongoDB.
 
 ## Principle proyects
 
